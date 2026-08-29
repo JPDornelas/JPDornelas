@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9++%CB%99%E1%B5%95%CB%99+%E2%8A%B9+Welcome+to+my+profile+%E2%8A%B9+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile+%E2%8A%B9" alt="Typing SVG">
   </a>
 </div>
 
-#
+# 
+
 Me chamo João Pedro, tenho 25 anos e sou natural de Belo Horizonte, em Minas Gerais. Atualmente curso Ciencias da Computação na Wyden. Adoro coisas relacionadas a tecnologia,desde a parte de Hardware, Software, Front-End, Back-End e Infra.
 
- 
 #
 
 <img align="right" alt="" height="200px" src="./src/frieren.gif">
