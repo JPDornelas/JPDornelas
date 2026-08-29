@@ -101,14 +101,14 @@ Me chamo João Pedro, tenho 25 anos e sou natural de Belo Horizonte, em Minas Ge
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://jp-dornelas.vercel.app/api?username=JPDornelas&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+    src="https://github-readme-stats-fawn-eight-69.vercel.app/api?username=JPDornelas&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://jp-dornelas.vercel.app/api/top-langs/?username=JPDornelas&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+      src="https://github-readme-stats-fawn-eight-69.vercel.app/api/top-langs/?username=JPDornelas&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
 
 </p>
